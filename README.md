@@ -33,3 +33,17 @@ python gui.py
 - `sorter.py` – Sorting algorithms
 - `duplicate.py` – Duplicate detection
 - `analytics.py` – Storage statistics
+
+## Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Search
+![Search](screenshots/search.png)
+
+### Duplicates
+![Duplicates](screenshots/duplicates.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
